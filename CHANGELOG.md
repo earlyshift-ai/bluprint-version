@@ -5,6 +5,10 @@ Resumen de cambios visibles para los usuarios.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/) y el
 proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
+## 0.1.2 — 2026-05-02
+
+- Primera prueba del sistema de actualización automática.
+
 ## 0.1.1 — 2026-05-01
 
 - **Actualizaciones automáticas con un solo clic.** Cuando publicamos una
