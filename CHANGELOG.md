@@ -5,6 +5,10 @@ Resumen de cambios visibles para los usuarios.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/) y el
 proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
+## 0.1.3 — 2026-05-03
+
+- Verificación interna post-mudanza del repo. Sin cambios visibles.
+
 ## 0.1.2 — 2026-05-02
 
 - Primera prueba del sistema de actualización automática.
